@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: YZ 博客 blog
 
 # Your name to show in the footer
-author: Some Person
+author: 一只
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  我的其他网站:
+    - 小红书: "https://www.xiaohongshu.com/user/profile/6430acee0000000011023252"
+  Author's home: "https://swedenxinyongka.github.io/"
 
 ################
 # --- Logo --- #
